@@ -1,0 +1,41 @@
+_repo: Pohjalla-Kuvaelmia-nelja-naytosta_53703
+_version: 0.0.1
+alternative_title: Na dne. Finnish
+contributor:
+  translator:
+    agent_name: Lattu, Iisakki
+    birthdate: 1857
+    deathdate: 1932
+    gutenberg_agent_id: '47494'
+    url: http://www.gutenberg.org/2009/agents/47494
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Gorky, Maxim
+    - Gorky, Maxime
+    - Горький, Максим
+    - Peshkov, Alexey Maximiovich
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '2016-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53703'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poverty -- Moral and ethical aspects -- Drama'
+- !lcsh 'Russian drama -- Translations into Finnish'
+- !lcsh 'Poverty -- Russia -- Drama'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social conditions -- 1801-1917 -- Drama'
+- GITenberg
+title: 'Pohjalla: Kuvaelmia, neljä näytöstä'
+url: http://www.gutenberg.org/ebooks/53703
